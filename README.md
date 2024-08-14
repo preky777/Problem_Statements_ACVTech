@@ -10,7 +10,7 @@ This repository contains solutions to various Python tasks. The tasks are design
 
 ## Task List
 
-The following tasks have been completed in this project:
+The following tasks have been completed in this project the document containing the tasks is uploaded "Task from Acviss Technologies.doc":
 
     1.	Write a function to reverse a string.
     2.	Implement a function to find the factorial of a number.
