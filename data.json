@@ -1,0 +1,80 @@
+{
+    "employees": [
+        {
+            "id": 101,
+            "name": "Alice Smith",
+            "position": "Software Engineer",
+            "age": 29,
+            "salary": 75000,
+            "skills": ["Python", "JavaScript", "SQL"],
+            "performance_scores": [85, 90, 92]
+        },
+        {
+            "id": 102,
+            "name": "Bob Johnson",
+            "position": "Data Analyst",
+            "age": 34,
+            "salary": 68000,
+            "skills": ["Excel", "Python", "R"],
+            "performance_scores": [88, 85, 87]
+        },
+        {
+            "id": 103,
+            "name": "Carol Davis",
+            "position": "Project Manager",
+            "age": 40,
+            "salary": 90000,
+            "skills": ["Management", "Excel", "Agile"],
+            "performance_scores": [90, 92, 94]
+        }
+    ],
+    "departments": {
+        "IT": {
+            "department_id": 1,
+            "head": "Carol Davis",
+            "budget": 500000,
+            "employees": [101, 102]
+        },
+        "HR": {
+            "department_id": 2,
+            "head": "Alice Smith",
+            "budget": 200000,
+            "employees": []
+        }
+    },
+    "company_info": {
+        "name": "Tech Innovations Inc.",
+        "founded": "2001",
+        "headquarters": {
+            "city": "San Francisco",
+            "state": "CA",
+            "country": "USA"
+        },
+        "financials": {
+            "revenue": 1200000,
+            "profit": 300000,
+            "currency": "USD"
+        }
+    },
+    "events": [
+        {
+            "event_id": "E001",
+            "event_name": "Annual Tech Conference",
+            "date": "2024-03-15",
+            "location": "San Francisco Convention Center",
+            "attendees": [
+                {"name": "Alice Smith", "role": "Speaker"},
+                {"name": "Bob Johnson", "role": "Attendee"}
+            ]
+        },
+        {
+            "event_id": "E002",
+            "event_name": "Quarterly Review Meeting",
+            "date": "2024-06-10",
+            "location": "Headquarters",
+            "attendees": [
+                {"name": "Carol Davis", "role": "Organizer"}
+            ]
+        }
+    ]
+}
