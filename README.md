@@ -5,7 +5,7 @@ This repository contains solutions to various Python tasks. The tasks are design
 ## Table of Contents
 
 - [Task List](#task-list)
-- [Tools Used](#tools-used)
+- [Content](#content)
 - [Task Descriptions](#task-descriptions)
 
 ## Task List
@@ -24,10 +24,13 @@ The following tasks have been completed in this project the document containing 
     10.	Write a script that periodically checks a website and sends an email notification if specific content is updated.
 
 
-## Tools Used
+## Content
 
-- Jupyter Notebook 'assign_acvtech.ipynb'
-- Python programming (Python 3)
+- Two important folders 'Questions_and_Files' and 'Solution' are present
+- The 'Questions_and_Files' folder has the questions/task in a word document, has 2 other folders 'files_4th_question' and 'json_file_9th_question' the name itself suggests what they are.
+- The 'Solution' folder has the Jupyter Notebook: 'Solutions.ipynb', has 2 other folders 'cleaned_files_4th_question' and 'folder_for_10th_question' the name itself suggests what they are.
+- The jupyter notebook contains all the solutions for the task.
+- Python programming (Python 3) is used.
 
 
 ## Task Descriptions
